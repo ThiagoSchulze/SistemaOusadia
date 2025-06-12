@@ -12,7 +12,7 @@ import javax.persistence.Id;
 
 /**
  *
- * @author users
+ * @author users teste commit
  */
 @Entity
 public class Teste implements Serializable {
