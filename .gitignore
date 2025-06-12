@@ -1,2 +1,11 @@
 build/classes/models/Teste_.class
 build/classes/models/Teste.class
+
+
+lib/
+libs/
+
+# Ignora configurações específicas do NetBeans
+nbproject/private/
+build/
+dist/
